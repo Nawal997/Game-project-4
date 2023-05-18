@@ -1,4 +1,4 @@
-### The Game Project 3 – Game Character interaction
+### The Game Project 4 – Game Character interaction
 
 Now to add some proper interaction to your game.
 
